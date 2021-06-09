@@ -1,2 +1,3 @@
 # Xnme-Freunde-Party-system
-Mein erstes Bungee &amp; Datenbank bezogenes Projekt für Xnme
+Moin, das ist mein persönliches Party/Freunde System.
+Bitte nur auf Anfrage benutzen, ansonsten viel spaß!
