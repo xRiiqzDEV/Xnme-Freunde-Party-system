@@ -11,7 +11,7 @@ import net.md_5.bungee.api.connection.ProxiedPlayer;
 import net.md_5.bungee.api.plugin.Command;
 import net.md_5.bungee.config.Configuration;
 
-public class MSGCommand extends Command {
+publiic class MSGCommand extends Command {
 
 	public MSGCommand(String name) {
 		super(name);
